@@ -1,37 +1,39 @@
-spectrum,spectrum_name
-694,Aromatic C-H out of plane bending
-700,C-Cl stretching
-757,Aromatic C-H stretching
-840,C-CH3 stretching
-966,CH2 rocking
-967,C=C
-972,C-CH3 rocking
-997,C-CH3 rocking
-1027,Aromatic C-H bending
-1099,C-C stretching
-1165,C-CH3 rocking
-1199,CH2 bending
-1220,C-O-C
-1255,C-H bending
-1274,C-N stretching
-1331,C-H bending
-1372,CH2 bending
-1375,C-CH3 symmetric
-1427,CH2 scissors
-1435,CH2 scissors
-1451,CH2 bending
-1455,CH2 symmetric
-1464,CH2 bending
-1530,N-H bending
-1547,Aromatic C-H stretching
-1634,C=O stretching
-1650,C=O stretching
-2838,CH2 symmetric
-2850,C-H stretching reflects
-2858,C-H stretching
-2917,CH2 asymmetric
-2923,C-H stretching reflects
-2932,C-H stretching
-2952,CH3 symmetric
-3055,Aromatic C-H stretching
-3298,N-H stretching
+"spectrum","spectrum_name"
+694,"Aromatic C-H out of plane bending"
+700,"C-Cl stretching"
+757,"Aromatic C-H stretching"
+840,"C-CH3 stretching"
+966,"CH2 rocking"
+967,"C=C"
+972,"C-CH3 rocking"
+997,"C-CH3 rocking"
+1027,"Aromatic C-H bending"
+1099,"C-C stretching"
+1165,"C-CH3 rocking"
+1199,"CH2 bending"
+1220,"C-O-C"
+1255,"C-H bending"
+1274,"C-N stretching"
+1331,"C-H bending"
+1372,"CH2 bending"
+1375,"C-CH3 symmetric"
+1427,"CH2 scissors"
+1435,"CH2 scissors"
+1451,"CH2 bending"
+1455,"CH2 symmetric"
+1464,"CH2 bending"
+1530,"N-H bending"
+1493,"Aromatic C-H stretching"
+1601,"Aromatic C-H stretching"
+1634,"C=O stretching"
+1650,"C=O stretching"
+2838,"CH2 symmetric"
+2850,"C-H stretching reflects"
+2858,"C-H stretching"
+2917,"CH2 asymmetric"
+2923,"C-H stretching reflects"
+2932,"C-H stretching"
+2952,"CH3 symmetric"
+3000,"Aromatic C-H stretching"
+3110,"Aromatic C-H stretching"
+3298,"N-H stretching"
